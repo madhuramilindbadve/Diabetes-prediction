@@ -4,7 +4,7 @@ import streamlit as st
 
 
 # loading the saved model
-loaded_model = pickle.load(open('https://github.com/madhuramilindbadve/Diabetes-prediction/trained_model.sav', 'rb'))
+loaded_model = pickle.load(open('https://drive.google.com/file/d/10oWJsP3ub2G6xx18BJEkKaHuIhCxTxl0/view?usp=sharing', 'rb'))
 
 
 # creating a function for Prediction
